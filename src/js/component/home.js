@@ -4,15 +4,10 @@ import { Navbar } from "./navbar";
 import { Cards } from "./cards";
 //import { Carousel } from "./carousel";
 
-let va = [
-	"https://www.stylevore.com/wp-content/uploads/2020/02/71340327_182588909444321_3030833370893376633_n-1024x1280.jpg",
-	"https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg",
-	"https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg",
-	"https://img.ifunny.co/images/57d245e4a6e7be1099e29faf31e62950686156c37a296ea149e75b704cb8aae0_1.jpg",
-	"https://i.pinimg.com/originals/a3/51/43/a351438d3fbdafe93ea04ed78dea6a36.jpg",
-	"https://i.redd.it/h677ldhjmbp31.jpg",
-	"https://www.xcritic.com/newswire/wp-content/uploads/2019/10/1500x500-copy-2.jpg",
-	"https://i.redd.it/tnrurew3fww31.png",
+let va = [ "https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif",
+            "https://thumbs.gfycat.com/IllinformedRingedAmericanindianhorse-size_restricted.gif",
+            "https://lh3.googleusercontent.com/proxy/EPK6AAIoSkc0_ANWIXJs2MSM-MIWWYdzGbqwTGehxhQBSeC2YzMVk2hDwimbYONldS1I8A_Z5YfaD1pF0SbozbG3cKJOHBz_YFXXT2JmkVwEU5__ClXrJydJGKqZmlcKF5TMiso",
+            "https://thumbs.gfycat.com/DecentEnchantedErne-size_restricted.gif"
 ]
 
 export function Home() {

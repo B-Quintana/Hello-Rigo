@@ -4,11 +4,12 @@ import { Navbar } from "./navbar";
 import { Cards } from "./cards";
 //import { Carousel } from "./carousel";
 
-let va = [ "https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif",
-            "https://thumbs.gfycat.com/IllinformedRingedAmericanindianhorse-size_restricted.gif",
-            "https://lh3.googleusercontent.com/proxy/EPK6AAIoSkc0_ANWIXJs2MSM-MIWWYdzGbqwTGehxhQBSeC2YzMVk2hDwimbYONldS1I8A_Z5YfaD1pF0SbozbG3cKJOHBz_YFXXT2JmkVwEU5__ClXrJydJGKqZmlcKF5TMiso",
-            "https://thumbs.gfycat.com/DecentEnchantedErne-size_restricted.gif"
-]
+let va = [
+	"https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif",
+	"https://thumbs.gfycat.com/IllinformedRingedAmericanindianhorse-size_restricted.gif",
+	"https://66.media.tumblr.com/c3b9d679cb2b1b450bcf913a92488750/3ad4d78bcb030020-0b/s400x600/b4caf3466cf467000c8ceb00f8fbdea4e5331364.gif",
+	"https://thumbs.gfycat.com/DecentEnchantedErne-size_restricted.gif"
+];
 
 export function Home() {
 	return (

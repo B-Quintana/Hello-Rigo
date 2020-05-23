@@ -4,7 +4,7 @@ import React from "react";
 	<Carousel.Item>
 		<img
 			className="d-block w-100",
-			src="https://www.stylevore.com/wp-content/uploads/2020/02/71340327_182588909444321_3030833370893376633_n-1024x1280.jpg"
+			src="https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif"
 			alt="First slide"
 		/>
 		<Carousel.Caption>
@@ -15,7 +15,7 @@ import React from "react";
 	<Carousel.Item>
 		<img
 			className="d-block w-100"
-			src="https://images-na.ssl-images-amazon.com/images/I/61dDgJExUAL._SY550_.jpg"
+			src="https://thumbs.gfycat.com/IllinformedRingedAmericanindianhorse-size_restricted.gif"
 			alt="Third slide holder.js"
 		/>
 
@@ -27,7 +27,7 @@ import React from "react";
 	<Carousel.Item>
 		<img
 			className="d-block w-100"
-			src="https://i.ebayimg.com/images/g/cFMAAOSwQYZWt5KZ/s-l1600.jpg"
+			src="https://thumbs.gfycat.com/DecentEnchantedErne-size_restricted.gif"
 			alt="Third slide"
 		/>
 

@@ -2,7 +2,7 @@ import React from "react";
 import { Jumbotron } from "./jumbotron";
 import { Navbar } from "./navbar";
 import { Cards } from "./cards";
-//import { Carousel } from "./carousel";
+import { Carousel } from "./carousel";
 
 let va = [
 	"https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif",

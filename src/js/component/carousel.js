@@ -70,7 +70,7 @@ function ControlledCarousel() {
 			<Carousel.Item>
 				<img
 					className="d-block w-100"
-					src= "https://66.media.tumblr.com/c3b9d679cb2b1b450bcf913a92488750/3ad4d78bcb030020-0b/s400x600/b4caf3466cf467000c8ceb00f8fbdea4e5331364.gif",
+					src= "https://66.media.tumblr.com/c3b9d679cb2b1b450bcf913a92488750/3ad4d78bcb030020-0b/s400x600/b4caf3466cf467000c8ceb00f8fbdea4e5331364.gif"
 
 					alt="Second slide"
 				/>

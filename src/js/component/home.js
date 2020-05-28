@@ -3,7 +3,8 @@ import { Jumbotron } from "./jumbotron";
 import { Navbar } from "./navbar";
 import { Cards } from "./cards";
 import { Carousel } from "./carousel";
-
+import {modal} from "./modal";
+import {footer} from "./footer"
 let va = [
 	"https://thumbs.gfycat.com/CompetentMeekHydra-max-1mb.gif",
 	"https://thumbs.gfycat.com/IllinformedRingedAmericanindianhorse-size_restricted.gif",
